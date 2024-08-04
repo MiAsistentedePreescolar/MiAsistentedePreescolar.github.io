@@ -6,7 +6,7 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 
-    typewriter.typeString('Materiales para educadoras')
+    typewriter.typeString('Materiales para educadoras y directoras')
     .pauseFor(2500)
     .deleteAll()
     .typeString('¡Disfruta y trabaja!')
