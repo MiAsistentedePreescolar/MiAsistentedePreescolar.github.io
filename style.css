@@ -1,0 +1,59 @@
+/*Se copia la font family de google en la sección: Quicksand: CSS class for a variable style*/
+*{
+    font-family: "Quicksand", sans-serif;
+}
+/*Color de encabezado*/
+header{
+    background-color: #FFE9D0;
+}
+/*Color letra MAP*/
+header span{
+    color: #BC5A94;
+}
+/*Color letra botones*/
+.nav-item a{
+    color: #102C57;
+}
+/*Color letra cambia al visitar el link*/
+.nav-item a:visited{
+    color: #102C57;
+}
+/*Color letra al seleccionar botones*/
+.nav-item a:hover{
+    color: #FFB1B1;
+}
+/*Color botón naranja y letra amarilla*/
+#nav-button{
+    background-color: #FFB1B1;
+    color: #102C57;
+}
+/*Color acerca de nosotros*/
+main section .acercadenosotros{
+    background-color: #BC5A94;
+}
+.icon-square .bi{
+    color: #FFDE95;
+    font-size: 2em;
+}
+.fs-2 {
+    color: #B1AFFF;
+}
+footer{
+    background-color: #BBE9FF;
+    color: #BC5A94;
+}
+footer .icon-footer i{
+    color: #F19ED2;
+}
+footer p a {
+    color: #78ABA8;
+}
+#app{
+    color: #B1AFFF;
+}
+.card-title{
+    color: #78ABA8;
+}
+.card-header{
+    color: #BC5A94;
+}
